@@ -1,6 +1,6 @@
-|================|
+
 |=Grant Sorenson=|
-|================|
+                                     
 I am interested in creating great systems that function efficiently, and I enjoy problem solving and working hard to find the best solution to a problem. It's easy for me to focus on problems while 
 still being able to make time to communicate with team members and ensure the project is on track to meet its' goals. My experience as a lead programmer and systems developer with Half Dream Games 
 on the video game Frag Tournament gave me valuable knowledge about the software development life cycle process and the challenges that come with it. I was responsible for communicating with the Product Owner 
